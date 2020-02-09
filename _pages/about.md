@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- _using computational neuroscience to understand the algorithms that support reward prediction and learning in the brain_ -->
 
-I am an Associate Research Scholar working with Yael Niv at the Princeton Neuroscience Institute at Princeton University, where I co-direct research in the lab focused on the neural computations that support reward prediction and learning in the brain.
+I am an Associate Research Scholar working with Yael Niv at the Princeton Neuroscience Institute at Princeton University, where I co-direct research in the lab on the neural computations that support reward prediction and learning in the brain.
 
 <!-- understanding biologically plausible mechanisms for reward prediction and learning in the brain and in behavior. -->
 
