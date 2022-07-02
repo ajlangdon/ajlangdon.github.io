@@ -83,11 +83,11 @@ author:
   name             : "Angela Langdon"
   avatar           : "profile.png"
   bio              : "computational neuroscience\b of\b reward prediction and learning"
-  location         : "Princeton Neuroscience Institute"
+  location         : # "Princeton Neuroscience Institute"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FoPYg7EAAAAJ&hl=en"
-  email            : "alangdon@princeton.edu"
+  email            : # "angela.langdon@nih.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
